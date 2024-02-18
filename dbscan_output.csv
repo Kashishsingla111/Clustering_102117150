@@ -1,0 +1,4 @@
+Parameters,No data preprocessing c=3,No data preprocessing c=4 ,No data preprocessing c=5,Using Normalisation c=3,Using Normalisation c=4,Using Normalisation c=5,Using Transform c=3,Using Transform c=4,Using Transform c=5,Using PCA c=3,Using PCA c=4,Using PCA c=5,Using N+T c=3,Using N+T c=4,Using N+T c=5,Using N+T+PCA c=3,Using N+T+PCA c=4,Using N+T+PCA c=5
+Silhouette,0,0,0,-0.131,-0.131,-0.131,0,0,0,0,0,0,0,0,0,0,0,0
+Calinski-Harabasz,0,0,0,12.4059,12.4059,12.4059,0,0,0,0,0,0,0,0,0,0,0,0
+Davies-Bouldin,0,0,0,1.495,1.495,1.495,0,0,0,0,0,0,0,0,0,0,0,0
